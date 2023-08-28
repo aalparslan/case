@@ -1,0 +1,5 @@
+backend/TextDataService.class
+backend/TextDataRepository.class
+backend/CorsConfig.class
+backend/TextData.class
+backend/Application.class
